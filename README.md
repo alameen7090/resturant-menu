@@ -6,8 +6,8 @@ A React app showcasing a restaurant menu with reusable components and list rende
 - MenuItem: Reusable component to display individual menu items with conditional vegetarian badge
 
 ## Links
-- **GitHub Repository:** https://github.com/Ahmed-Rafi07/restaurant-menu
-- **Live Website:** https://rafi-menu.netlify.app/
+- **GitHub Repository:** https://github.com/alameen7090/resturant-menu
+- **Live Website:** https://flourishing-pasca-b15949.netlify.app/
 
 ## Run Locally
 1. Clone the repository
